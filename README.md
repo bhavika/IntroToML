@@ -5,6 +5,7 @@
 + [Bioresponse] (https://www.kaggle.com/c/bioresponse)
 + [Household Power Consumption] (http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
 + Housing prices ex1data1 file (from CS229 or Coursera's ML class)
++ [SpamAssassin] (https://spamassassin.apache.org/publiccorpus/)
 
 ### Python Packages You Need
 
@@ -21,3 +22,4 @@
 + SVC
 + K-Means
 + Random forest
++ Naive Bayes Classification
