@@ -13,6 +13,7 @@
 + Numpy
 + Matplotlib
 + Pylab
++ lda
 
 ### Algorithms
 
@@ -23,3 +24,4 @@
 + K-Means
 + Random forest
 + Naive Bayes Classification
++ [Latent Dirichlet Allocation] (http://jmlr.org/papers/v3/blei03a.html)
